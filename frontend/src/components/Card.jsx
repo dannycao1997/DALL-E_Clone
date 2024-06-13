@@ -1,11 +1,11 @@
 import React from 'react';
 
-const CreatePost = () => {
+const Card = () => {
     return (
         <div>
-
+            
         </div>
     );
 };
 
-export default CreatePost;
+export default Card;

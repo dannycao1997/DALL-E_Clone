@@ -1,11 +1,11 @@
 import React from 'react';
 
-const CreatePost = () => {
+const FormField = () => {
     return (
         <div>
-
+            
         </div>
     );
 };
 
-export default CreatePost;
+export default FormField;
